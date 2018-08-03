@@ -1,0 +1,8 @@
+theme: jekyll-theme-minimal
+title: Udyat Seminars
+description: Additional content for various seminars conducted by Udyat.
+show_downloads: false
+
+github:
+  owner_name: Udyat MIET
+  owner_url: https://udyat-miet.github.io
